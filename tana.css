@@ -1,3 +1,13 @@
 body {
-  color: #FF0000 !important;
+    margin: 0 !important;
+    font-family: var(--fontFamilySans) !important;
+    line-height: var(--lineHeightLoose) !important;
+    font-weight: var(--fontWeightNormal) !important;
+    background-color: #fff !important;
+    color: var(--colorText) !important;
+}
+
+.PublishedWithTana_publishedWithTana__y84Qr img {
+    border: none !important;
+    display: none !important;
 }
